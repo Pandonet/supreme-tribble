@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PANDONETTV" tvg-logo="https://i.ibb.co/LX99WdH7/192.png" group-title=" → CANAL DE TV ←",TV EN LINEA 
+https://live20.bozztv.com/giatvplayout7/giatv-208170/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Un Hombre de Familia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuMxtIlVuDXHLSnKwAASlXW9DLj.jpg" group-title="→ VOD DRAMA ←",Un Hombre de Familia
 http://ultra-premium-pro.xyz:8080/movie/999682570tv/yyjd2u/270251.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gamer " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDbp1SSzxpCFOcjvIe0rDTwOOoJ.jpg" group-title="→ VOD ACCIÓN ←",Gamer 
