@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PANDONETTV" tvg-logo="https://i.ibb.co/LX99WdH7/192.png" group-title=" → CANAL DE TV ←",TV EN LINEA 
+https://live20.bozztv.com/giatvplayout7/giatv-208170/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="El Caballero de la Navidad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8waiMa3Ockoi4oY1vvqNnfW35xu.jpg" group-title="→ VOD NAVIDAD ←",El Caballero de la Navidad
 http://ultra-premium-pro.xyz:8080/movie/999682570tv/yyjd2u/267580.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Klaus " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLniylyJlbXEdxvaGSuQkRACWUx.jpg" group-title="→ VOD NAVIDAD ←",Klaus 
